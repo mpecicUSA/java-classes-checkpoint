@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3af0df41-3b52-49bb-b58c-3219544cad9c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java_classes_checkpoint$CallingCardTest.ic" NAME="CallingCardTest Coverage Results" MODIFIED="1565203499865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.galvanize.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_classes_checkpoint$CellPhoneTest.ic" NAME="CellPhoneTest Coverage Results" MODIFIED="1565214861347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.galvanize.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_classes_checkpoint$CallingCardTest_doesGetCostPerMinuteWork.ic" NAME="CallingCardTest.doesGetCostPerMinuteWork Coverage Results" MODIFIED="1565215097565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.galvanize.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="324" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/CallingCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/galvanize/CallingCardTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/galvanize/CallingCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/galvanize/CellPhone.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/galvanize/CellPhoneTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/galvanize/CallingCardTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-216" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="galvanize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-classes-checkpoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-classes-checkpoint" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="galvanize" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565215270579" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.galvanize" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CallingCardTest.doesGetCostPerMinuteWork">
+    <configuration name="CallingCardTest.doesGetCostPerMinuteWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.galvanize.java-classes-checkpoint.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.CallingCardTest" />
+      <option name="METHOD_NAME" value="doesGetCostPerMinuteWork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallingCardTest.doesTheCardHaveAStartingCost" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="com.galvanize.java-classes-checkpoint.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.CallingCardTest" />
+      <option name="METHOD_NAME" value="doesTheCardHaveAStartingCost" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CellPhoneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.galvanize.java-classes-checkpoint.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.CellPhoneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CellPhoneTest.callUpdatesOnCallToTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.galvanize.java-classes-checkpoint.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.CellPhoneTest" />
+      <option name="METHOD_NAME" value="callUpdatesOnCallToTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CellPhoneTest.callsThatTickReduceMinutes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.galvanize.java-classes-checkpoint.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.CellPhoneTest" />
+      <option name="METHOD_NAME" value="callsThatTickReduceMinutes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CellPhoneTest.doesGetCallHistoryReturnPhoneNumbersAndTimeOnCall" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="com.galvanize.java-classes-checkpoint.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.CellPhoneTest" />
+      <option name="METHOD_NAME" value="doesGetCallHistoryReturnPhoneNumbersAndTimeOnCall" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CellPhoneTest.endCallUpdatesOnCallToFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.galvanize.java-classes-checkpoint.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.CellPhoneTest" />
+      <option name="METHOD_NAME" value="endCallUpdatesOnCallToFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CellPhoneTest.doesGetCallHistoryReturnPhoneNumbersAndTimeOnCall" />
+      <item itemvalue="JUnit.CallingCardTest.doesTheCardHaveAStartingCost" />
+      <item itemvalue="JUnit.CellPhoneTest" />
+      <item itemvalue="JUnit.CellPhoneTest.callUpdatesOnCallToTrue" />
+      <item itemvalue="JUnit.CellPhoneTest.callsThatTickReduceMinutes" />
+      <item itemvalue="JUnit.CellPhoneTest.endCallUpdatesOnCallToFalse" />
+      <item itemvalue="JUnit.CallingCardTest.doesGetCostPerMinuteWork" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CallingCardTest.doesGetCostPerMinuteWork" />
+        <item itemvalue="JUnit.CellPhoneTest" />
+        <item itemvalue="JUnit.CellPhoneTest.endCallUpdatesOnCallToFalse" />
+        <item itemvalue="JUnit.CellPhoneTest.callsThatTickReduceMinutes" />
+        <item itemvalue="JUnit.CellPhoneTest.callUpdatesOnCallToTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af0df41-3b52-49bb-b58c-3219544cad9c" name="Default Changelist" comment="" />
+      <created>1565194420931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565194420931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CellPhoneTest_doesGetCallHistoryReturnPhoneNumbersAndTimeOnCall - 2019.08.07 at 14h 52m 37s.xml">
+      <configuration name="CellPhoneTest.doesGetCallHistoryReturnPhoneNumbersAndTimeOnCall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CellPhoneTest_doesGetCallHistoryReturnPhoneNumbersAndTimeOnCall - 2019.08.07 at 14h 52m 50s.xml">
+      <configuration name="CellPhoneTest.doesGetCallHistoryReturnPhoneNumbersAndTimeOnCall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CellPhoneTest - 2019.08.07 at 14h 52m 56s.xml">
+      <configuration name="CellPhoneTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CellPhoneTest - 2019.08.07 at 14h 53m 32s.xml">
+      <configuration name="CellPhoneTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CellPhoneTest - 2019.08.07 at 14h 54m 16s.xml">
+      <configuration name="CellPhoneTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CellPhoneTest - 2019.08.07 at 14h 54m 23s.xml">
+      <configuration name="CellPhoneTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CallingCardTest_doesGetCostPerMinuteWork - 2019.08.07 at 14h 56m 08s.xml">
+      <configuration name="CallingCardTest.doesGetCostPerMinuteWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CallingCardTest_doesGetCostPerMinuteWork - 2019.08.07 at 14h 57m 16s.xml">
+      <configuration name="CallingCardTest.doesGetCostPerMinuteWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CallingCardTest_doesGetCostPerMinuteWork - 2019.08.07 at 14h 57m 20s.xml">
+      <configuration name="CallingCardTest.doesGetCostPerMinuteWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CallingCardTest_doesGetCostPerMinuteWork - 2019.08.07 at 14h 58m 19s.xml">
+      <configuration name="CallingCardTest.doesGetCostPerMinuteWork" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-216" y="-1057" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.015974442" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.3287483" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.3284974" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2476684" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39792746" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32960597" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.015974442" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.3287483" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3284974" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.2476684" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39792746" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" anchor="right" id="Coverage" order="6" side_tool="true" visible="true" weight="0.32960597" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/CellPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/galvanize/CellPhoneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="68" column="64" selection-start-line="68" selection-start-column="64" selection-end-line="68" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/CallingCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/galvanize/CallingCardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
